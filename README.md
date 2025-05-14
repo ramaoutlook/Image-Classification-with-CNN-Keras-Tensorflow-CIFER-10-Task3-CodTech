@@ -43,6 +43,13 @@ The project includes the following key steps:
 - ✅ **Visualization Tools**: Includes matplotlib-based plots for insights into performance and predictions.
 - ✅ **Detailed Reporting**: Classification report and confusion matrix help analyze model strengths and weaknesses class-wise.
 
+## Model Outputs
+
+![Image](https://github.com/user-attachments/assets/5eedc9f1-db93-4ae8-9ce9-29c89869a20b)
+![Image](https://github.com/user-attachments/assets/9c31a99f-cab6-49b1-b873-ec0630b11c93)
+![Image](https://github.com/user-attachments/assets/85efe572-456d-4811-aaf0-a3335a2144f1)
+![Image](https://github.com/user-attachments/assets/bb24cd9c-8967-476e-8365-c35904542a9b)
+
 ## 📌 Notes
 
 - Ideal for **internship or academic submissions**.
